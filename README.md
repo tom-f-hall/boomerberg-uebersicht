@@ -1,5 +1,7 @@
 # Stock Tracker Widget for Übersicht
 
+[Stonks Widget](/boomergerg-widget.png)
+
 - Download [Übersicht](http://tracesof.net/uebersicht/)
 
 - Download this project as a .zip
