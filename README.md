@@ -1,6 +1,6 @@
 # Stock Tracker Widget for Übersicht
 
-![Stonks Widget](/boomergerg-widget.png)
+![Stonks Widget](/boomerberg-widget.png)
 
 - Download [Übersicht](http://tracesof.net/uebersicht/)
 
