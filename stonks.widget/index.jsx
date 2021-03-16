@@ -63,7 +63,7 @@ export const render = ({output, error}) => {
             // Calculate change (on Prev close)
             const change = regularMarketPrice - regularMarketPreviousClose
             // Calculate change % (on Prev close)
-            const changepct = change / regularMarketPreviousClose
+            const changepct = (change / regularMarketPreviousClose) * 100
             // Get date
             const date = new Date(regularMarketTime*1000)
             // Lookup holding
